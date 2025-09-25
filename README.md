@@ -26,7 +26,7 @@ Illuminate is a powerful PDF enhancement application that uses AI super-resoluti
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/illuminate.git
+   git clone https://github.com/York-Lucis/illuminate.git
    cd illuminate
    ```
 
